@@ -1,0 +1,12 @@
+G:\.NET\IntroTierAppPrac\BLL\bin\Debug\BLL.dll
+G:\.NET\IntroTierAppPrac\BLL\bin\Debug\BLL.pdb
+G:\.NET\IntroTierAppPrac\BLL\bin\Debug\DAL.dll
+G:\.NET\IntroTierAppPrac\BLL\bin\Debug\EntityFramework.dll
+G:\.NET\IntroTierAppPrac\BLL\bin\Debug\DAL.pdb
+G:\.NET\IntroTierAppPrac\BLL\bin\Debug\DAL.dll.config
+G:\.NET\IntroTierAppPrac\BLL\bin\Debug\EntityFramework.xml
+G:\.NET\IntroTierAppPrac\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\.NET\IntroTierAppPrac\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\.NET\IntroTierAppPrac\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\.NET\IntroTierAppPrac\BLL\obj\Debug\BLL.dll
+G:\.NET\IntroTierAppPrac\BLL\obj\Debug\BLL.pdb

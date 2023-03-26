@@ -1,0 +1,14 @@
+G:\.NET\IntroTierAppPrac\DAL\bin\Debug\DAL.dll.config
+G:\.NET\IntroTierAppPrac\DAL\bin\Debug\DAL.dll
+G:\.NET\IntroTierAppPrac\DAL\bin\Debug\DAL.pdb
+G:\.NET\IntroTierAppPrac\DAL\bin\Debug\EntityFramework.dll
+G:\.NET\IntroTierAppPrac\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\.NET\IntroTierAppPrac\DAL\bin\Debug\EntityFramework.xml
+G:\.NET\IntroTierAppPrac\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\.NET\IntroTierAppPrac\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\.NET\IntroTierAppPrac\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\.NET\IntroTierAppPrac\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\.NET\IntroTierAppPrac\DAL\obj\Debug\DAL.dll
+G:\.NET\IntroTierAppPrac\DAL\obj\Debug\DAL.pdb
+G:\.NET\IntroTierAppPrac\DAL\obj\Debug\DAL.Migrations.InitDb.resources
+G:\.NET\IntroTierAppPrac\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
